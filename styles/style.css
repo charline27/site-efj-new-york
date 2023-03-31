@@ -1,0 +1,40 @@
+@import "banner.css";
+@import "buttons.css";
+@import "cards.css";
+@import "footer.css";
+
+
+
+ body{
+    color: #575F7D;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: rgb(60, 54, 54);
+    margin: 0;
+    text-align: center;        
+}
+
+
+.card{
+    background-color: rgb(255, 255, 255);
+    width: 15%;
+    margin: 7px auto;
+    padding: 6.25px;
+    text-align: center;
+    border: 10px solid rgb(0, 26, 255);
+    border-radius: 5px;
+    box-shadow: 0px 1px 8px 2px black;
+    
+}
+
+.a{
+    text-decoration: none;
+}
+
+.titre{
+    text-shadow: 3px 5px 3px black;
+    }
+
+.surtitre{
+    color: rgb(247,255,11);
+}
+
