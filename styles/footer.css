@@ -7,10 +7,22 @@
 
 .insta a {
     color: black;
+    font-size: 35px;
    
 }
 
 .insta a:hover {
+     color: rgb(255, 255, 255);
+    transition: 0.4s;
+}
+
+.meteo a {
+    color: black;
+    font-size: 35px;
+   
+}
+
+.meteo a:hover {
      color: rgb(255, 255, 255);
     transition: 0.4s;
 }
