@@ -4,3 +4,27 @@
     color: rgb(0, 0, 0);
     padding: 48px 0;
 }
+
+.insta a {
+    color: black;
+   
+}
+
+.insta a:hover {
+     color: rgb(255, 255, 255);
+    transition: 0.4s;
+}
+
+.l {
+    color: black;
+    padding: 5px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.l:hover {
+     color: rgb(255, 255, 255);
+    transition: 0.4s;
+}
+
+
